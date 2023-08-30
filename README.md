@@ -1,4 +1,4 @@
-### Hi there 👋
+### Eunyoung's Github✨
 
 <!--
 **EunyoungPark327/EunyoungPark327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![PEY's GitHub stats](https://github-readme-stats.vercel.app/api?username=EunyoungPark327&show_icons=true&theme=calm_pink)
