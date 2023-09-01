@@ -1,7 +1,7 @@
 ### About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="25" height="25" />
 - 4년차 Cloud Engineer 박은영입니다.
 - 단순/반복 업무를 개선하고자 노력합니다.
-- 비즈니스 성장에 기여하며 팀 내외로 협업 합니다.
+- 비즈니스 성장에 기여하며 팀 내외로 협업합니다.
   
 <br>
 
