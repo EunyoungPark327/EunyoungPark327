@@ -1,9 +1,3 @@
-### About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="25" height="25" />
-- 4년차 Cloud Engineer 박은영입니다.
-- 단순/반복 업무를 개선하고자 노력합니다.
-- 비즈니스 성장에 기여하며 팀 내외로 협업합니다.
-  
-<br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="20" /> Skills
 
@@ -14,7 +8,6 @@
   ![terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
   ![k8s](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<br>
 
 
 <!--
