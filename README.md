@@ -1,8 +1,9 @@
-
-
-<h3 align="left">🛠 Language and tools</h3>
-
 ###
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="28" height="28" />
+  <span style="font-size: 30px; font-weight: bold;">Language and tools :</span>
+</p>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -26,9 +27,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
+###
+<br>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="28" height="28" />
+  <span style="font-size: 30px; font-weight: bold;">My Stats :</span>
+</p>
+
+
 
 ###
 <div align="center">
